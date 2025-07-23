@@ -1,0 +1,11 @@
+{
+ "autoLineImage": "https://discord.com/assets/4b357782daec4239711055c06af93881.png",
+ "autoLineChannels": [
+  "1391822887706558546"
+ ],
+ "welcome_1342854879424811091": {
+  "channel": "1391822894899925114",
+  "time": "5s",
+  "message": "Hey {members} And Welcome To {server}"
+ }
+}
